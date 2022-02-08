@@ -36,12 +36,12 @@
 	"readmeFilename": "README.md",
 	"peerDependencies":
 	{
-		"react": "16.*",
+		"react": "17.*",
 		"react-native": "0.*"
 	},
 	"devDependencies":
 	{
-		"react": "16.*",
+		"react": "17.*",
 		"react-native": "0.*"
 	}
 }
